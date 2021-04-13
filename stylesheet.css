@@ -1,0 +1,13 @@
+.title {
+    color: #f54f02;
+    font-size: 36px;
+  }
+
+.opening, p{
+  font-size: larger;
+}
+.para2 span {
+  font-size: 70px;
+  font-family:cursive;
+  color: rgb(173, 8, 2);
+}
